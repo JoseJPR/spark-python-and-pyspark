@@ -1,7 +1,7 @@
 ![Python Logo](./assets/logo-python.png)
 ![Spark Logo](./assets/logo-spark.png)
 
-# Spark with Python and PySpark (WIP)
+# Spark with Python and PySpark
 
 ## Curso
 
